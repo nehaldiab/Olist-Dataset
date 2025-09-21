@@ -47,3 +47,17 @@ The main goal is to uncover **customer behavior patterns, order performance, pay
 
 ## 📌 Dataset Source  
 The dataset is publicly available on **[Kaggle – Olist E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.  
+## 📌 Sample of Dashboard
+<img width="585" height="331" alt="olist" src="https://github.com/user-attachments/assets/7df88fdd-2033-40d1-945a-913c793cf5b6" />
+<img width="1183" height="665" alt="image" src="https://github.com/user-attachments/assets/4fe97285-f28d-47f3-aada-2a4ef809d0c8" />
+<img width="1184" height="663" alt="image" src="https://github.com/user-attachments/assets/852b663b-1121-48fe-a1c2-5887efafffbf" />
+## 7. ✍️ About Me  
+**Nehal Diab**  
+
+📧 Email: [nehaldiab717@gmail.com](mailto:nehaldiab717@gmail.com)  
+🔗 LinkedIn: [www.linkedin.com/in/nehal-diab-810b82209](https://www.linkedin.com/in/nehal-diab-810b82209)  
+📊 NovyPro: [View Project](https://www.novypro.com/create_project/olist-e-commerce-dataset)  
+
+
+
+
